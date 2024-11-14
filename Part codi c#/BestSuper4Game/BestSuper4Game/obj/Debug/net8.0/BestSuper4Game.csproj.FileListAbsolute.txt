@@ -1,0 +1,14 @@
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\bin\Debug\net8.0\BestSuper4Game.exe
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\bin\Debug\net8.0\BestSuper4Game.deps.json
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\bin\Debug\net8.0\BestSuper4Game.runtimeconfig.json
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\bin\Debug\net8.0\BestSuper4Game.dll
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\bin\Debug\net8.0\BestSuper4Game.pdb
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.AssemblyInfo.cs
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.dll
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\refint\BestSuper4Game.dll
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.pdb
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\BestSuper4Game.genruntimeconfig.cache
+C:\Users\isard\source\repos\BestSuper4Game\BestSuper4Game\obj\Debug\net8.0\ref\BestSuper4Game.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isard\\source\\repos\\BestSuper4Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9856103-DD54-4CA8-9DCB-99B3B9851AB5}|BestSuper4Game\\BestSuper4Game.csproj|c:\\users\\isard\\source\\repos\\bestsuper4game\\bestsuper4game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9856103-DD54-4CA8-9DCB-99B3B9851AB5}|BestSuper4Game\\BestSuper4Game.csproj|solutionrelative:bestsuper4game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\source\\repos\\BestSuper4Game\\BestSuper4Game\\Program.cs",
+              "RelativeDocumentMoniker": "BestSuper4Game\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\source\\repos\\BestSuper4Game\\BestSuper4Game\\Program.cs",
+              "RelativeToolTip": "BestSuper4Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:26:45.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
