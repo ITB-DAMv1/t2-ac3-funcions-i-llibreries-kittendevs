@@ -50,13 +50,12 @@ namespace BestSuper4Game
         {
             bool validName = false;
             // ERROR
-            string userName = "";
 
             while (!validName)
             {
                 Console.WriteLine(ChooseNameTxt);
-                userName = Console.ReadLine();
-                if (userName.Length >= 2 && userName.Length <= 25)
+                name = Console.ReadLine(); // ERROR,TUBIMOS QUE CAMBIAR LA VARIABLE MU MAL
+                if (name.Length >= 2 && name.Length <= 25)
                 {
                     validName = true;
                 }
