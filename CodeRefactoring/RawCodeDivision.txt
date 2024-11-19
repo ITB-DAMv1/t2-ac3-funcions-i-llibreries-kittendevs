@@ -27,7 +27,7 @@ namespace TestingCodeTeam3
             bool twoVowels = false;
 
 
-            // CREAR FUNCION PARA ESCOJER UN AVATAR, USUARIO HA DE INTRODUCIR NUMERO EN RANGO 1-4
+            // CREAR FUNCION PARA ESCOJER UN AVATAR, USUARIO HA DE INTRODUCIR NUMERO EN RANGO 1-4 -- Miquel
             Console.WriteLine(InsertCharacterNumTxt);
 
             while (!(characterNum <= MaxCharNum && characterNum >= MinCharNum))//Range in original pseudocode was (!(characterNum >= MaxCharNum && characterNum <= MinCharNum))
@@ -40,7 +40,7 @@ namespace TestingCodeTeam3
             }
 
 
-            // CREAR FUNCION PARA ESCRIBIR EL NOMBRE DEL USUARIO
+            // CREAR FUNCION PARA ESCRIBIR EL NOMBRE DEL USUARIO -- Miquel
             Console.WriteLine(InsertCharacterUsernameTxt);
 
             while (!(userName.Length >= MinCharUser && userName.Length <= MaxCharUser))//Range in original pseudocode was (!(userName.Length <= MinCharUser && userName.Length >= MaxCharUser))
@@ -51,7 +51,7 @@ namespace TestingCodeTeam3
             }
 
 
-            // CREAR FUNCION PARA ESCRIVIR NUMERO DE MALDAD 1000-5000
+            // CREAR FUNCION PARA ESCRIVIR NUMERO DE MALDAD 1000-5000 -- Arnau
             Console.WriteLine(InsertEvilTxt);
 
             while (!(malice <= MinEvil && malice >= MaxEvil))//Range in original pseudocode was (!(malice >= MinEvil && malice <= MaxEvil))
@@ -64,7 +64,7 @@ namespace TestingCodeTeam3
             }
 
 
-            // FUNCION GAME CORE DONDE CONVIERTE/ DIVIDE LA MALDAD
+            // FUNCION GAME CORE DONDE CONVIERTE/ DIVIDE LA MALDAD -- Arnau
             CheckVowels(ref twoVowels, ref userName, ref vowels);
 
             if (twoVowels == true)
@@ -78,16 +78,18 @@ namespace TestingCodeTeam3
                 Console.WriteLine($"Es repart {personMalice} per cada membre de l'equip i et queda un nivell de maldad de {avatarMalice}"); //Original pseudocode didn't print
             }
         }
+
+        // ARREGLAR FUNCION -- Sergio
         public static void DividirMaldat(ref int personMalice, ref int avatarMalice, in int malice)
 
         {
-            // DOS FUNCIONES?
 
             avatarMalice = malice / 10 * 8;
             personMalice = malice / 20;
 
         }
 
+        // PARA ULTIMO
         static public bool CharacterSpecial(string userName)
         {
             userName = userName.ToLower();
@@ -135,9 +137,11 @@ namespace TestingCodeTeam3
             }
             return false;
         }
+
+        // FUNCION SWITCH??
         public static void CheckVowels(ref bool twoVowels, ref string userName, ref int vowels)
         {
-            foreach (char c in userName.ToLower()) // FUNCION SWITCH??
+            foreach (char c in userName.ToLower())
             {
                 if (c == 'a')
                     vowels = vowels + 1;
@@ -152,6 +156,8 @@ namespace TestingCodeTeam3
             }
             if (vowels >= 2) twoVowels = true;
         }
+
+        // ARREGLAR FUNCION -- Sergio
         static void ConvertToMagicDust(int malice, ref int personDust, ref int avatarMalice)
         {
 
