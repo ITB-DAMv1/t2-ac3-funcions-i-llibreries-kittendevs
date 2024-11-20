@@ -1,0 +1,14 @@
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\bin\Debug\net8.0\CodeRefactoring.exe
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\bin\Debug\net8.0\CodeRefactoring.deps.json
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\bin\Debug\net8.0\CodeRefactoring.runtimeconfig.json
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\bin\Debug\net8.0\CodeRefactoring.dll
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\bin\Debug\net8.0\CodeRefactoring.pdb
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.AssemblyInfoInputs.cache
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.AssemblyInfo.cs
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.dll
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\refint\CodeRefactoring.dll
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.pdb
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\CodeRefactoring.genruntimeconfig.cache
+C:\Users\theza\Documents\Programacio\Workspace\CodeRefactoring\CodeRefactoring\obj\Debug\net8.0\ref\CodeRefactoring.dll
