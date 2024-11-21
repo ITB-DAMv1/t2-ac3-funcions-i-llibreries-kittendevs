@@ -1,0 +1,14 @@
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\bin\Debug\net8.0\Super4GameCode.exe
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\bin\Debug\net8.0\Super4GameCode.deps.json
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\bin\Debug\net8.0\Super4GameCode.runtimeconfig.json
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\bin\Debug\net8.0\Super4GameCode.dll
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\bin\Debug\net8.0\Super4GameCode.pdb
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.AssemblyInfoInputs.cache
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.AssemblyInfo.cs
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.csproj.CoreCompileInputs.cache
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.dll
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\refint\Super4GameCode.dll
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.pdb
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\Super4GameCode.genruntimeconfig.cache
+C:\Users\theza\Documents\Programacio\Workspace\miaw\Super4GameCode\Super4GameCode\obj\Debug\net8.0\ref\Super4GameCode.dll

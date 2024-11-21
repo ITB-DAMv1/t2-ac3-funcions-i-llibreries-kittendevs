@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Super4GameCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD420EB-5F13-481B-B2CF-9346C9637FFC}|Super4UnitTest\\Super4UnitTest.csproj|c:\\users\\theza\\documents\\programacio\\workspace\\super4gamecode\\super4unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD420EB-5F13-481B-B2CF-9346C9637FFC}|Super4UnitTest\\Super4UnitTest.csproj|solutionrelative:super4unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794A0863-9612-46AB-A176-B85D609865FF}|Super4GameCode\\Super4GameCode.csproj|c:\\users\\theza\\documents\\programacio\\workspace\\super4gamecode\\super4gamecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794A0863-9612-46AB-A176-B85D609865FF}|Super4GameCode\\Super4GameCode.csproj|solutionrelative:super4gamecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Super4GameCode\\Super4UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Super4UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Super4GameCode\\Super4UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "Super4UnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAkwCEBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:36:03.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Super4GameCode\\Super4GameCode\\Program.cs",
+              "RelativeDocumentMoniker": "Super4GameCode\\Program.cs",
+              "ToolTip": "C:\\Users\\theza\\Documents\\Programacio\\Workspace\\Super4GameCode\\Super4GameCode\\Program.cs",
+              "RelativeToolTip": "Super4GameCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:35:20.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

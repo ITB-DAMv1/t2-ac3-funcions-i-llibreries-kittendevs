@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super4GameCode", "Super4GameCode\Super4GameCode.csproj", "{794A0863-9612-46AB-A176-B85D609865FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super4UnitTest", "Super4UnitTest\Super4UnitTest.csproj", "{2AD420EB-5F13-481B-B2CF-9346C9637FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794A0863-9612-46AB-A176-B85D609865FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794A0863-9612-46AB-A176-B85D609865FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794A0863-9612-46AB-A176-B85D609865FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794A0863-9612-46AB-A176-B85D609865FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD420EB-5F13-481B-B2CF-9346C9637FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD420EB-5F13-481B-B2CF-9346C9637FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD420EB-5F13-481B-B2CF-9346C9637FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD420EB-5F13-481B-B2CF-9346C9637FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0CD9947-50E5-4D43-AD0B-93913A587F57}
+	EndGlobalSection
+EndGlobal
