@@ -80,7 +80,7 @@
         }
 
         // Funcio per comprovar que no hagin caracters estranys en un String
-        static private bool IsSpecialCharacter(char c)
+        public static bool IsSpecialCharacter(char c)
         {
             // Definimos los caracteres permitidos como una cadena
             string allowedChars = "abcdefghijklmnopqrstuvwxyz0123456789";
